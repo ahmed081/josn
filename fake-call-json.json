@@ -2,6 +2,7 @@
   "AdsController": {
       
 	  "ironsource app key": "xxxx",
+	  "test_mode": true,
 	  "ironsource interstitial": "xxxx",
       "ironsource banner": "xxxx",
 	  
