@@ -1,0 +1,37 @@
+{
+
+    "settings" : {
+            "error":true,
+            "message":"message",
+            "inter_clicks":3,
+            
+            "ad_status":"ad_status",    
+            "ad_network":"ad_network",
+            "admob_small_banner":"admob_small_banner",
+            "admob_medium_banner":"admob_medium_banner",
+            "admob_inter":"admob_inter",
+            "admob_native":"admob_native",
+            "facebook_small_banner":"facebook_small_banner",
+            "facebook_medium_banner":"facebook_medium_banner",
+            "facebook_inter":"facebook_inter",
+            "facebook_native":"facebook_native",
+            "applovin_small_banner":"applovin_small_banner",
+            "applovin_medium_banner":"applovin_medium_banner",
+            "applovin_inter":"applovin_inter",
+            "applovin_native":"applovin_native",
+            "startapp_app_id":"startapp_app_id",
+
+            "featured_slider_limit":3,
+            "most_viewed_limit":3,
+            "latest_category_limit":3,
+            "latest_wallpapers_limit":3,
+
+            "facebook_username":"facebook_username",
+            "facebook_page_id":"facebook_page_id",
+            "instagram_username":"instagram_username",
+            "telegram_username":"telegram_username",
+            "twitter_username":"twitter_username"
+    }
+
+
+}
