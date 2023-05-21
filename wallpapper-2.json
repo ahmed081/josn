@@ -5,7 +5,7 @@
             "message":"message",
             "inter_clicks":3,
             
-            "ad_status":"ad_status",    
+            "ad_status":"on",    
             "ad_network":"ad_network",
             "admob_small_banner":"admob_small_banner",
             "admob_medium_banner":"admob_medium_banner",
@@ -31,7 +31,33 @@
             "instagram_username":"instagram_username",
             "telegram_username":"telegram_username",
             "twitter_username":"twitter_username"
-    }
+    },
+    "Wallpaper":[
+        {
+            "id":1,
+            "views":0,
+            "category_name":"cat 1",
+            "wall_url":"http://www.snut.fr/wp-content/uploads/2015/08/image-de-paysage-2.jpg"
+        },
+        {
+            "id":1,
+            "views":0,
+            "category_name":"cat 2",
+            "wall_url":"http://www.snut.fr/wp-content/uploads/2015/08/image-de-paysage-2.jpg"
+        }
+    ],
+    "WallCat":[
+        {
+            "cat_id":1,
+            "category_name":"cat 1",
+            "category_image":"http://www.snut.fr/wp-content/uploads/2015/08/image-de-paysage-4.jpg"
+        },
+        {
+            "cat_id":1,
+            "category_name":"cat 1",
+            "category_image":"http://www.snut.fr/wp-content/uploads/2015/08/image-de-paysage-4.jpg"
+        }
+    ]
 
 
 }
