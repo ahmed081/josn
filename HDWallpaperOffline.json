@@ -1,80 +1,10 @@
 {
-    "Config": {
-      "PrivacyPolicy": "https://www.covershootstudio.xyz/privacy-policy.html",
-      "MoreApp": "https://play.google.com/store/apps/developer?id=Cover+Shoot+Studio",
-      "ad_status": "1",
-      "ad_type": "fan",
-      "backup_ads": "admob",
-      "admob_publisher_id": "pub-3940256099942544",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
-      "ad_manager_banner_unit_id": "/6499/example/banner",
-      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
-      "ad_manager_native_unit_id": "/6499/example/native",
-      "ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
-      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
-      "startapp_app_id": "0",
-      "unity_game_id": "5278407",
-      "unity_banner_placement_id": "Banner_Android",
-      "unity_interstitial_placement_id": "Interstitial_Android",
-      "applovin_banner_ad_unit_id": "f90d394ec1f042c9",
-      "applovin_interstitial_ad_unit_id": "3715edf08de03d2f",
-      "applovin_native_ad_manual_unit_id": "3f0a7f80d8908629",
-      "applovin_app_open_ad_unit_id": "0fe49526ebaf7c5f",
-      "applovin_banner_zone_id": "ojhuggfy53",
-      "applovin_interstitial_zone_id": "59626hyy",
-      "ironsource_app_key": "85460dcd",
-      "ironsource_banner_placement_name": "DefaultBanner",
-      "ironsource_interstitial_placement_name": "DefaultInterstitial",
-      "interstitial_ad_interval": 3,
-      "one_signal": "af8f19cc-7f2d-4b75-9c9f-f4e46aae6529",
-      "test_mode": true
-    },
-    "wallpaper": [
-      {
-        "image_id": "1",
-        "image_name": "first",
-        "image_thumb": "https://www.dropbox.com/s/208j7txd7dz9xie/wallVideo.mp4?dl=1"
-      },
-      {
-        "image_id": "1",
-        "image_name": "gif",
-        "image_thumb": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1"
-      },
-      {
-        "image_id": "1",
-        "image_name": "first",
-        "image_thumb": "https://wallpaper.dog/large/20477158.jpg"
-
-      },
-      {
-        "image_id": "1",
-        "image_name": "first",
-        "image_thumb": "https://www.dropbox.com/s/208j7txd7dz9xie/wallVideo.mp4?dl=1"
-      },
-      {
-        "image_id": "1",
-        "image_name": "gif",
-        "image_thumb": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1"
-      }
-    ],
-    "category": [
-      {
-        "category_id": "1",
-        "category_name": "Google",
-        "category_image": "https://www.dropbox.com/s/kuw59y0nk4fajpw/54.jpg?dl=1",
-        "total_wallpaper": "2"
-      },
-      {
-        "category_id": "1",
-        "category_name": "football",
-        "category_image": "https://www.dropbox.com/s/0pbqyy4d860hoyc/rm3.jpg?dl=1",
-        "total_wallpaper": "2"
-      }
-    ]
-  }
+    "admob_banner_id":"ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial_id":"ca-app-pub-3940256099942544/6300978111",
+    "admob_native_id":"ca-app-pub-3940256099942544/1033173712",
+    "facebook_banner_id":"IMG_16_9_APP_INSTALL#1156954457977643_1159359654403790",
+    "facebook_banner_native":"IMG_16_9_APP_INSTALL#1156954457977643_1159359654403790",
+    "facebook_inter_id":"IMG_16_9_APP_INSTALL#1156954457977643_1159359511070471",
+    "facebook_native_id":"IMG_16_9_APP_INSTALL#1156954457977643_1156959601310462"    
+}
   
