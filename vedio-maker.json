@@ -1,90 +1,41 @@
 {
-    "ads": [
-        {
-            "is_unityads_ads": "false",
-            "unityads_id": "5103037",
-            "unityads_interstital": "video",
-            "unityads_videoreword": "rewardedVideo",
-            "is_admob_ads": "true",
-            "admob_interstital": "ca-app-pub-3940256099942544/1033173712",
-            "admob_videoreword": "ca-app-pub-3940256099942544/5224354917",
-            "is_facebook_ads": "false",
-            "fb_interstital": "573093431536943_593164282863191",
-            "fb_videoreword": "573093431536943_573111451535141",
-            "count_showinterstitial": "2"
-        }
-    ],
-    "music": [
-        {
-            "name": "Song 1",
-            "type": "BLACKPINK",
-            "totalNote": "30",
-            "tempo": 1200,
-            "isUnlock": true,
-            "musicPath": "https://www.dropbox.com/s/txsh99rw47ey5gl/1.wav?dl=0"
-        },
-        {
-            "name": "song 2",
-            "type": "BLACKPINK",
-            "totalNote": "30",
-            "tempo": 1200,
-            "isUnlock": true,
-            "musicPath": "https://www.dropbox.com/s/0mlqfmt39klcd1w/2.wav?dl=0"
-        },
-        {
-            "name": "Song 3",
-            "type": "BLACKPINK",
-            "totalNote": "30",
-            "tempo": 1200,
-            "isUnlock": false,
-            "musicPath": "https://www.dropbox.com/s/hrebijlfhpbvaca/3.wav?dl=0"
-        }
-    ],
-    "more_app": [
-        {
-            "name": "app1",
-            "link": "https://play.google.com/store/apps/details?id=volumebooster.sound.loud.speaker.booster",
-            "imageLink": "https://i.postimg.cc/QdPnJ0G4/unnamed.webp"
-        },
-        {
-            "name": "app2",
-            "link": "link",
-            "imageLink": "https://play-lh.googleusercontent.com/qNaK7uWbF2m9qhHP9yKSZ1wBs3OTuh4R5TPXO2gJy1xsGJlQIcEtGUe286NzDWa7j74=w240-h480-rw"
-        },
-        {
-            "name": "app3",
-            "link": "link",
-            "imageLink": "https://play-lh.googleusercontent.com/qNaK7uWbF2m9qhHP9yKSZ1wBs3OTuh4R5TPXO2gJy1xsGJlQIcEtGUe286NzDWa7j74=w240-h480-rw"
-        },
-        {
-            "name": "app4",
-            "link": "link",
-            "imageLink": "https://play-lh.googleusercontent.com/qNaK7uWbF2m9qhHP9yKSZ1wBs3OTuh4R5TPXO2gJy1xsGJlQIcEtGUe286NzDWa7j74=w240-h480-rw"
-        },
-        {
-            "name": "app5",
-            "link": "link",
-            "imageLink": "https://play-lh.googleusercontent.com/qNaK7uWbF2m9qhHP9yKSZ1wBs3OTuh4R5TPXO2gJy1xsGJlQIcEtGUe286NzDWa7j74=w240-h480-rw"
-        },
-        {
-            "name": "app6",
-            "link": "link",
-            "imageLink": "https://i.pinimg.com/originals/39/6c/d8/396cd8e1d8557f73c786892cffa4f13c.png"
-        },
-        {
-            "name": "app1",
-            "link": "link",
-            "imageLink": "https://i.pinimg.com/originals/39/6c/d8/396cd8e1d8557f73c786892cffa4f13c.png"
-        },
-        {
-            "name": "app1",
-            "link": "link",
-            "imageLink": "https://i.pinimg.com/originals/39/6c/d8/396cd8e1d8557f73c786892cffa4f13c.png"
-        },
-        {
-            "name": "app1",
-            "link": "link",
-            "imageLink": "https://i.pinimg.com/originals/39/6c/d8/396cd8e1d8557f73c786892cffa4f13c.png"
-        }
-    ]
+	"ads": [{
+		"is_facebook_enabled": "false",
+		"facebook_banner": "1547965422229980_1547968785562977",
+		"facebook_Interstitial": "1547965422229980_1549327952093727",
+		"facebook_native": "1547965422229980_1896407160719136",
+		"facebook_reward": "628517604864414_911352989914206",
+		"is_admob_enabled": "false",
+		"admob_banner": "ca-app-pub-3973705508587673/7083202885",
+		"admob_Interstitial": "ca-app-pub-3973705508587673/9930256874",
+		"admob_native": "ca-app-pub-3973705508587673/6537569097",
+		"admob_reward": "ca-app-pub-3973705508587673/2686423180",
+		"ShowinterAfter": "2",
+		"more_app": [{
+				"title": "Wednesday piano",
+				"image_url": "https://play-lh.googleusercontent.com/4aJe-SeltFD7Hy-XsCh6dk3ARlDHpPY-neYp67DZK80NwbpZR8bHu0GNUvJFhHEIEA=w240-h480-rw",
+				"external_link": "https://play.google.com/store/apps/details?id=wednesdayaddams.piano.pianotiles"
+			},
+			{
+				"title": "Volume Booster",
+				"image_url": "https://play-lh.googleusercontent.com/EJOUx0RwI0oq31CYB72gwdRDkEaPm-5JYwDGMc5CbpZKidt9oFP71M7I1G-smfggcOsl=w240-h480-rw",
+				"external_link": "https://play.google.com/store/apps/details?id=volume.super.loud.sound.booster"
+			},
+			{
+				"title": "MrBeast piano",
+				"image_url": "https://play-lh.googleusercontent.com/9oczxOVKyEEiM0VAH6vx_sCwe38huBtBfnI7VDE7DJ011t35bNOAKhmMjTD-bEE-sWhQ=w240-h480-rw",
+				"external_link": "https://play.google.com/store/apps/details?id=com.mrbeast.pianotiles"
+			},
+			{
+				"title": "aesthetic icons",
+				"image_url": "https://play-lh.googleusercontent.com/Ky_6Fke96eOzMOfLAoX6yh8urJRWAxXK4gLTtewm1-eksSK1CE6wwqcr6XY5tSaXM8I=w240-h480-rw",
+				"external_link": "https://play.google.com/store/apps/details?id=com.aestheticicon.changertheme.creaticon.widgetschanger"
+			},
+			{
+				"title": "Skibidi toilet piano Tiles",
+				"image_url": "https://play-lh.googleusercontent.com/rbrTGPgwKchUqhSdp-PjtebuxQ97rBQ1X3kNGCmDpUxB1kY7FjWHC-4MmNXPeLknj18=w240-h480-rw",
+				"external_link": "https://play.google.com/store/apps/details?id=game.skibidi.toilet.piano.tiles.music"
+			}
+		]
+	}]
 }
