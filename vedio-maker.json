@@ -1,0 +1,90 @@
+{
+    "ads": [
+        {
+            "is_unityads_ads": "false",
+            "unityads_id": "5103037",
+            "unityads_interstital": "video",
+            "unityads_videoreword": "rewardedVideo",
+            "is_admob_ads": "true",
+            "admob_interstital": "ca-app-pub-3940256099942544/1033173712",
+            "admob_videoreword": "ca-app-pub-3940256099942544/5224354917",
+            "is_facebook_ads": "false",
+            "fb_interstital": "573093431536943_593164282863191",
+            "fb_videoreword": "573093431536943_573111451535141",
+            "count_showinterstitial": "2"
+        }
+    ],
+    "music": [
+        {
+            "name": "Song 1",
+            "type": "BLACKPINK",
+            "totalNote": "30",
+            "tempo": 1200,
+            "isUnlock": true,
+            "musicPath": "https://www.dropbox.com/s/txsh99rw47ey5gl/1.wav?dl=0"
+        },
+        {
+            "name": "song 2",
+            "type": "BLACKPINK",
+            "totalNote": "30",
+            "tempo": 1200,
+            "isUnlock": true,
+            "musicPath": "https://www.dropbox.com/s/0mlqfmt39klcd1w/2.wav?dl=0"
+        },
+        {
+            "name": "Song 3",
+            "type": "BLACKPINK",
+            "totalNote": "30",
+            "tempo": 1200,
+            "isUnlock": false,
+            "musicPath": "https://www.dropbox.com/s/hrebijlfhpbvaca/3.wav?dl=0"
+        }
+    ],
+    "moreApp": [
+        {
+            "name": "app1",
+            "link": "https://play.google.com/store/apps/details?id=volumebooster.sound.loud.speaker.booster",
+            "imageLink": "https://i.postimg.cc/QdPnJ0G4/unnamed.webp"
+        },
+        {
+            "name": "app2",
+            "link": "link",
+            "imageLink": "https://play-lh.googleusercontent.com/qNaK7uWbF2m9qhHP9yKSZ1wBs3OTuh4R5TPXO2gJy1xsGJlQIcEtGUe286NzDWa7j74=w240-h480-rw"
+        },
+        {
+            "name": "app3",
+            "link": "link",
+            "imageLink": "https://play-lh.googleusercontent.com/qNaK7uWbF2m9qhHP9yKSZ1wBs3OTuh4R5TPXO2gJy1xsGJlQIcEtGUe286NzDWa7j74=w240-h480-rw"
+        },
+        {
+            "name": "app4",
+            "link": "link",
+            "imageLink": "https://play-lh.googleusercontent.com/qNaK7uWbF2m9qhHP9yKSZ1wBs3OTuh4R5TPXO2gJy1xsGJlQIcEtGUe286NzDWa7j74=w240-h480-rw"
+        },
+        {
+            "name": "app5",
+            "link": "link",
+            "imageLink": "https://play-lh.googleusercontent.com/qNaK7uWbF2m9qhHP9yKSZ1wBs3OTuh4R5TPXO2gJy1xsGJlQIcEtGUe286NzDWa7j74=w240-h480-rw"
+        },
+        {
+            "name": "app6",
+            "link": "link",
+            "imageLink": "https://i.pinimg.com/originals/39/6c/d8/396cd8e1d8557f73c786892cffa4f13c.png"
+        },
+        {
+            "name": "app1",
+            "link": "link",
+            "imageLink": "https://i.pinimg.com/originals/39/6c/d8/396cd8e1d8557f73c786892cffa4f13c.png"
+        },
+        {
+            "name": "app1",
+            "link": "link",
+            "imageLink": "https://i.pinimg.com/originals/39/6c/d8/396cd8e1d8557f73c786892cffa4f13c.png"
+        },
+        {
+            "name": "app1",
+            "link": "link",
+            "imageLink": "https://i.pinimg.com/originals/39/6c/d8/396cd8e1d8557f73c786892cffa4f13c.png"
+        }
+    ]
+}
