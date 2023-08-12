@@ -10,6 +10,10 @@
 		"admob_Interstitial": "ca-app-pub-3973705508587673/9930256874",
 		"admob_native": "ca-app-pub-3973705508587673/6537569097",
 		"admob_reward": "ca-app-pub-3973705508587673/2686423180",
+		"unity_game_id": "4498607",
+		"unity_banner_id": "Banner_Android",
+		"unity_interstitial_id": "Interstitial_Android",
+		"id_unity_enabled": "true",
 		"ShowinterAfter": "2",
 		"more_app": [{
 				"title": "Wednesday piano",
